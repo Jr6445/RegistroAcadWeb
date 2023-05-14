@@ -1,0 +1,14 @@
+com\ra\registroacad\domain\Estudiante.class
+com\ra\registroacad\criteria\TestCriteria.class
+com\ra\registroacad\web\ConfiguracionBean.class
+Services\IEstudianteServiceLocal.class
+com\ra\registroacad\web\EstudianteServlet.class
+Services\IEstudianteServiceRemote.class
+com\ra\registroacad\web\EstudianteBean.class
+com\ra\registroacad\domain\Credencial.class
+com\ra\registroacad\ciclovidajpa\PersistenciaJPA.class
+Services\EstudianteDaoImpl.class
+com\ra\registroacaweb\resources\JavaEE8Resource.class
+Services\IEstudianteDao.class
+Services\EstudianteServiceImpl.class
+com\ra\registroacad\jpql\TestJPQL.class
